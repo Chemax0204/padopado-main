@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF Dancing Beat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				79
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "GF PADOPADORUU",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF UP0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PadoGF",
+	"position": [
+		70,
+		400
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		40,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
